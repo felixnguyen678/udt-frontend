@@ -1,0 +1,40 @@
+{
+  "name": "udt-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "@types/react": "^17.0.41",
+    "@types/react-dom": "^17.0.14",
+    "css-loader": "^6.7.1",
+    "express": "^4.17.3",
+    "file-loader": "^6.2.0",
+    "json-loader": "^0.5.7",
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15",
+    "react-hot-loader": "^4.13.0",
+    "sass-loader": "^12.6.0",
+    "source-map-loader": "^3.0.1",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.2.8",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2",
+    "typings": "^2.1.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-middleware": "^5.3.1",
+    "webpack-dev-server": "^4.7.4",
+    "webpack-hot-middleware": "^2.25.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
